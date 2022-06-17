@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038200754462",
+    "project_id": "passenger-3f3d5",
+    "storage_bucket": "passenger-3f3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038200754462:android:71034dd7abd452d9b0790f",
+        "android_client_info": {
+          "package_name": "com.passenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038200754462-i3rmrc8or0mp36mu9kb3u686p54h49p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZf3PD_SV9AxaaO5iUIXZJ2iBJ72PpcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038200754462-i3rmrc8or0mp36mu9kb3u686p54h49p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
